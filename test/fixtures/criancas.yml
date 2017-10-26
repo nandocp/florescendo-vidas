@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_crianca: MyString
+  nascimento_crianca: 2017-10-25
+  horario: 1
+  data_matricula: 2017-10-25
+  necessidades_especiais: MyString
+
+two:
+  nome_crianca: MyString
+  nascimento_crianca: 2017-10-25
+  horario: 1
+  data_matricula: 2017-10-25
+  necessidades_especiais: MyString

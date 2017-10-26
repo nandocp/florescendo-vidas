@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_responsavel: MyString
+  nascimento_responsavel: 2017-10-25
+  telefone_responsavel: MyString
+  endereco_responsavel: MyString
+  tipo_responsavel: 1
+  trabalho_outros: MyString
+
+two:
+  nome_responsavel: MyString
+  nascimento_responsavel: 2017-10-25
+  telefone_responsavel: MyString
+  endereco_responsavel: MyString
+  tipo_responsavel: 1
+  trabalho_outros: MyString
